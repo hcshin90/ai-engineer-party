@@ -1,4 +1,4 @@
-#AI Engineer Party
+# AI Engineer Party
 
 ```
 [AI Engineer Party 문제 출제]
